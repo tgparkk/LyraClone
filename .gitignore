@@ -1,0 +1,23 @@
+# 언리얼 엔진 관련 제외
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+/Build/
+
+# Visual Studio 관련 제외
+.vs/
+*.suo
+*.VC.db
+*.VC.opendb
+*.sln  # .sln 파일 제외
+
+# 시스템 관련 파일 제외
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 기타 불필요 파일
+*.log
+*.tmp
+*.swp
